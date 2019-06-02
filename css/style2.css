@@ -216,6 +216,7 @@ button:focus {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  width:100%;
   -webkit-box-direction: normal;
   -webkit-box-orient: vertical;
   -webkit-flex-direction: column;
